@@ -24,8 +24,8 @@ export default {
     return {
       // 表单数据
       loginForm: {
-        mobile: '',
-        code: ''
+        mobile: '15614014540',
+        code: '246810'
       },
       // 错误提示
       errMsg: {

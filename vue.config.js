@@ -1,4 +1,5 @@
 module.exports = {
+  publicPath: './',
   // 覆盖蓝色主题
   css: {
     loaderOptions: {
